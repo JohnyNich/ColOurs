@@ -14,6 +14,7 @@ Here are a list of colours available:
 * Purple
 * Cyan
 * Normal (This is just the normal colour your terminal/console uses.
+
 Here are a list of "effects" you can use:
 * Normal (Just plain normal text)
 * Bold
