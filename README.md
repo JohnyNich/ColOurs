@@ -24,4 +24,5 @@ Here are a list of "effects" you can use:
 * Blinking
 * Reverse (This will switch the background colour and the foreground colour)
 * Invisible
+
 To use or change a colour, you must reference the colour (eg. Red), add a dot (.), then add the effect (eg. bold). So it would look like this: `Red.bold`. If you were to use it in a print statment, it would be `print(color.effect + text)`. Note: The first letter of each colour is bold, while for each effect, the whole name is lowercase.
